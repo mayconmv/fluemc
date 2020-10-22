@@ -1,0 +1,4 @@
+SELECT
+TOP 1 *
+FROM dbo.Flete
+ORDER BY Id DESC
